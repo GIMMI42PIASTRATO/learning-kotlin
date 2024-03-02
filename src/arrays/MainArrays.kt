@@ -1,3 +1,4 @@
+package arrays
 import kotlin.reflect.typeOf
 
 fun sum(array: Array<Int>): Int {
